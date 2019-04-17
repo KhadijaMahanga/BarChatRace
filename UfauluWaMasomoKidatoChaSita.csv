@@ -1,57 +1,57 @@
-name,value,year,lastValue,rank,,,,,,,,,
-Accountancy (Uhasibu),99.81,2015,NA,5,,,,,,,,,1
-Accountancy (Uhasibu),92.91,2016,99.81,9,,,,,,,,,2
-Accountancy (Uhasibu),92.42,2017,92.91,9,,,,,,,,,3
-Accountancy (Uhasibu),96.51,2018,92.42,9,,,,,,,,,4
-Advanced Mathematics,85.02,2015,NA,13,,,,,,,,,5
-Advanced Mathematics,76.35,2016,85.02,12,,,,,,,,,6
-Advanced Mathematics,74.78,2017,76.35,12,,,,,,,,,7
-Advanced Mathematics,83.74,2018,74.78,13,,,,,,,,,8
-Agricultural Science (Sayansi Kilimo),97.98,2015,NA,9,,,,,,,,,9
-Agricultural Science (Sayansi Kilimo),96.41,2016,97.98,6,,,,,,,,,10
-Agricultural Science (Sayansi Kilimo),99.81,2017,96.41,2,,,,,,,,,11
-Agricultural Science (Sayansi Kilimo),98.21,2018,99.81,6,,,,,,,,,12
-Basic Applied Mathematics,NA,2015,NA,14,,,,,,,,,13
-Basic Applied Mathematics,NA,2016,NA,14,,,,,,,,,14
-Basic Applied Mathematics,49.4,2017,NA,14,,,,,,,,,
-Basic Applied Mathematics,55.32,2018,49.4,14,,,,,,,,,
-Biology (Bailojia),99.14,2015,NA,8,,,,,,,,,
-Biology (Bailojia),93.41,2016,99.14,8,,,,,,,,,
-Biology (Bailojia),95.06,2017,93.41,8,,,,,,,,,
-Biology (Bailojia),96.98,2018,95.06,7,,,,,,,,,
-Chemistry (Kemia),96.4,2015,NA,10,,,,,,,,,
-Chemistry (Kemia),87.5,2016,96.4,10,,,,,,,,,
-Chemistry (Kemia),88.31,2017,87.5,10,,,,,,,,,
-Chemistry (Kemia),92.71,2018,88.31,11,,,,,,,,,
-Commerce (Biashara),99.81,2015,NA,6,,,,,,,,,
-Commerce (Biashara),97.26,2016,99.81,5,,,,,,,,,
-Commerce (Biashara),99.08,2017,97.26,7,,,,,,,,,
-Commerce (Biashara),99.74,2018,99.08,2,,,,,,,,,
-Economics (Uchumi),99.7,2015,NA,7,,,,,,,,,
-Economics (Uchumi),98,2016,99.7,4,,,,,,,,,
-Economics (Uchumi),99.56,2017,98,4,,,,,,,,,
-Economics (Uchumi),96.62,2018,99.56,8,,,,,,,,,
-General Studies,86.98,2015,NA,11,,,,,,,,,
-General Studies,71.24,2016,86.98,13,,,,,,,,,
-General Studies,63.7,2017,71.24,13,,,,,,,,,
-General Studies,94.45,2018,63.7,10,,,,,,,,,
-Historia,99.96,2015,NA,1,,,,,,,,,
-Historia,99.96,2016,99.96,1,,,,,,,,,
-Historia,99.69,2017,99.96,3,,,,,,,,,
-Historia,99.05,2018,99.69,5,,,,,,,,,
-Jiografia,99.95,2015,NA,3,,,,,,,,,
-Jiografia,98.96,2016,99.95,3,,,,,,,,,
-Jiografia,99.19,2017,98.96,6,,,,,,,,,
-Jiografia,99.18,2018,99.19,4,,,,,,,,,
-Kiingereza),99.93,2015,NA,4,,,,,,,,,
-Kiingereza),95.5,2016,99.93,7,,,,,,,,,
-Kiingereza),99.44,2017,95.5,5,,,,,,,,,
-Kiingereza),99.23,2018,99.44,3,,,,,,,,,
-Kiswahili,99.96,2015,NA,2,,,,,,,,,
-Kiswahili,99.94,2016,99.96,2,,,,,,,,,
-Kiswahili,99.88,2017,99.94,1,,,,,,,,,
-Kiswahili,99.97,2018,99.88,1,,,,,,,,,
-Physics (Fizikia),85.7,2015,NA,12,,,,,,,,,
-Physics (Fizikia),80.34,2016,85.7,11,,,,,,,,,
-Physics (Fizikia),85.78,2017,80.34,11,,,,,,,,,
-Physics (Fizikia),86.48,2018,85.78,12,,,,,,,,,
+name,value,year,lastValue,rank
+Accountancy (Uhasibu),99.81,2015,NA,5
+Accountancy (Uhasibu),92.91,2016,99.81,9
+Accountancy (Uhasibu),92.42,2017,92.91,9
+Accountancy (Uhasibu),96.51,2018,92.42,9
+Advanced Mathematics,85.02,2015,NA,13
+Advanced Mathematics,76.35,2016,85.02,12
+Advanced Mathematics,74.78,2017,76.35,12
+Advanced Mathematics,83.74,2018,74.78,13
+Agricultural Science (Sayansi Kilimo),97.98,2015,NA,9
+Agricultural Science (Sayansi Kilimo),96.41,2016,97.98,6
+Agricultural Science (Sayansi Kilimo),99.81,2017,96.41,2
+Agricultural Science (Sayansi Kilimo),98.21,2018,99.81,6
+Basic Applied Mathematics,NA,2015,NA,14
+Basic Applied Mathematics,NA,2016,NA,14
+Basic Applied Mathematics,49.4,2017,NA,14
+Basic Applied Mathematics,55.32,2018,49.4,14
+Biology (Bailojia),99.14,2015,NA,8
+Biology (Bailojia),93.41,2016,99.14,8
+Biology (Bailojia),95.06,2017,93.41,8
+Biology (Bailojia),96.98,2018,95.06,7
+Chemistry (Kemia),96.4,2015,NA,10
+Chemistry (Kemia),87.5,2016,96.4,10
+Chemistry (Kemia),88.31,2017,87.5,10
+Chemistry (Kemia),92.71,2018,88.31,11
+Commerce (Biashara),99.81,2015,NA,6
+Commerce (Biashara),97.26,2016,99.81,5
+Commerce (Biashara),99.08,2017,97.26,7
+Commerce (Biashara),99.74,2018,99.08,2
+Economics (Uchumi),99.7,2015,NA,7
+Economics (Uchumi),98,2016,99.7,4
+Economics (Uchumi),99.56,2017,98,4
+Economics (Uchumi),96.62,2018,99.56,8
+General Studies,86.98,2015,NA,11
+General Studies,71.24,2016,86.98,13
+General Studies,63.7,2017,71.24,13
+General Studies,94.45,2018,63.7,10
+Historia,99.96,2015,NA,1
+Historia,99.96,2016,99.96,1
+Historia,99.69,2017,99.96,3
+Historia,99.05,2018,99.69,5
+Jiografia,99.95,2015,NA,3
+Jiografia,98.96,2016,99.95,3
+Jiografia,99.19,2017,98.96,6
+Jiografia,99.18,2018,99.19,4
+Kiingereza),99.93,2015,NA,4
+Kiingereza),95.5,2016,99.93,7
+Kiingereza),99.44,2017,95.5,5
+Kiingereza),99.23,2018,99.44,3
+Kiswahili,99.96,2015,NA,2
+Kiswahili,99.94,2016,99.96,2
+Kiswahili,99.88,2017,99.94,1
+Kiswahili,99.97,2018,99.88,1
+Physics (Fizikia),85.7,2015,NA,12
+Physics (Fizikia),80.34,2016,85.7,11
+Physics (Fizikia),85.78,2017,80.34,11
+Physics (Fizikia),86.48,2018,85.78,12
